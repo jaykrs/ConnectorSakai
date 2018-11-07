@@ -48,7 +48,7 @@
 		<portlet-preferences>
 			<preference>
 				<name>key</name>
-				<value>liferaydemo.constient.com</value>
+				<value>liferaydemo.xxxxxx.com</value>
 			</preference>
 			<preference>
 				<name>secret</name>
@@ -56,7 +56,7 @@
 			</preference>
 			<preference>
 				<name>endpoint</name>
-				<value>http://sakaidemo.constient.com/imsblti/provider/</value>
+				<value>http://sakaidemo.xxxxxx.com/imsblti/provider/</value>
 			</preference>
 			<preference>
 				<name>adminUsername</name>
@@ -68,11 +68,11 @@
 			</preference>
 			<preference>
 				<name>loginUrl</name>
-				<value>http://sakaidemo.constient.com/sakai-ws/soap/login?wsdl</value>
+				<value>http://sakaidemo.xxxxxx.com/sakai-ws/soap/login?wsdl</value>
 			</preference>
 			<preference>
 				<name>scriptUrl</name>
-				<value>http://sakaidemo.constient.com/sakai-ws/soap/sakai?wsdl</value>
+				<value>http://sakaidemo.xxxxxx.com/sakai-ws/soap/sakai?wsdl</value>
 			</preference>
 			<preference>
 				<name>allowedTools</name>
