@@ -27,3 +27,6 @@ Configuration on Liferay side in liferay portlet.xml
 deploy war file in liferay .
 
 This has been tested and working on liferay 7.
+
+
+Feel free to reach me on jaykrs@gmail.com in case of any issue with subject line liferaysakai connector.
